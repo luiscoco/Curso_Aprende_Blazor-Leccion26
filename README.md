@@ -4,7 +4,9 @@
 
 1. Abrir la aplicación con Visual Studio 2022 o VSCode
 
-2. Este es el código del componente
+2. Este es el código del componente que muestra la restricciones en los parámetros.
+
+En primer lugar hemos incluido un parámetro de tipo entero en la ruta, y también hemos incluid un parámetro de tipo buleano en la ruta
 
 ```razor
 @* Restricciones (Route Constraints) en una ruta en Blazor *@
